@@ -8,6 +8,7 @@
 **JavaScript**
 
 **API**
+All Preety Impressive
 
 **SDK**
 
@@ -16,3 +17,4 @@
 **Client / The Front End**
 
 **Server / The Back End**
+A waiter or waitress.
